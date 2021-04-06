@@ -120,3 +120,7 @@ To learn more about forking, read ["For a Repo"](https://docs.github.com/en/gith
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+Physics and programming are interesting.
+I'm working on the project and studying AIST.
+Playing video games with my friends is my favorite hobby.
