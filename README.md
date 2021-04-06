@@ -1,8 +1,8 @@
 ## 😺Something about me:grin:
-* Physics and programming are interesting.
+* Programming is interesting.
 * I'm working on the project and studying AIST.
 * Playing video games with my friends is my favorite hobby.
-* 
+
 # :wave: The Basics of GitHub  (AIST2602 Project: Milestone 2)
 
 ## 🤓 Course overview and learning outcomes 
